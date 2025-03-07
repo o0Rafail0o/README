@@ -1,0 +1,3 @@
+- Currently studying in the 3rd year of Computer Science
+- Main programming language is Java
+- I love coffee
